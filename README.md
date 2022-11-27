@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @endavid. I'm a graphics programmer.
 - 👀 I’m interested in Swift
 - 🌱 I’m currently learning Godot Engine
-- 🎮 I program indie games in my free time.
+- 🎮 I program indie games in my spare time.
 - 📫 Website: [http://endavid.com](endavid.com)
 
 <!---

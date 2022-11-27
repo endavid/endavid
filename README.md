@@ -2,7 +2,7 @@
 - 👀 I’m interested in Swift
 - 🌱 I’m currently learning Godot Engine
 - 🎮 I program indie games in my spare time.
-- 📫 Website: [http://endavid.com](endavid.com)
+- 📫 Website: [endavid.com](http://endavid.com)
 
 <!---
 endavid/endavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
